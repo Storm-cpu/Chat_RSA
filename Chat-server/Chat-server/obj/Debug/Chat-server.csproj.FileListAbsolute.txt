@@ -1,0 +1,31 @@
+E:\program\Chat-server\Chat-server\bin\Debug\Chat-server.exe.config
+E:\program\Chat-server\Chat-server\bin\Debug\Chat-server.exe
+E:\program\Chat-server\Chat-server\bin\Debug\Chat-server.pdb
+E:\program\Chat-server\Chat-server\obj\Debug\Chat-server.csproj.AssemblyReference.cache
+E:\program\Chat-server\Chat-server\obj\Debug\Chat-server.csproj.SuggestedBindingRedirects.cache
+E:\program\Chat-server\Chat-server\obj\Debug\Chat_server.Form1.resources
+E:\program\Chat-server\Chat-server\obj\Debug\Chat_server.Properties.Resources.resources
+E:\program\Chat-server\Chat-server\obj\Debug\Chat-server.csproj.GenerateResource.cache
+E:\program\Chat-server\Chat-server\obj\Debug\Chat-server.csproj.CoreCompileInputs.cache
+E:\program\Chat-server\Chat-server\obj\Debug\Chat-server.exe
+E:\program\Chat-server\Chat-server\obj\Debug\Chat-server.pdb
+D:\Download D\Chat-server\Chat-server\bin\Debug\Chat-server.exe.config
+D:\Download D\Chat-server\Chat-server\bin\Debug\Chat-server.exe
+D:\Download D\Chat-server\Chat-server\bin\Debug\Chat-server.pdb
+D:\Download D\Chat-server\Chat-server\obj\Debug\Chat-server.csproj.AssemblyReference.cache
+D:\Download D\Chat-server\Chat-server\obj\Debug\Chat_server.Form1.resources
+D:\Download D\Chat-server\Chat-server\obj\Debug\Chat_server.Properties.Resources.resources
+D:\Download D\Chat-server\Chat-server\obj\Debug\Chat-server.csproj.GenerateResource.cache
+D:\Download D\Chat-server\Chat-server\obj\Debug\Chat-server.csproj.CoreCompileInputs.cache
+D:\Download D\Chat-server\Chat-server\obj\Debug\Chat-server.exe
+D:\Download D\Chat-server\Chat-server\obj\Debug\Chat-server.pdb
+C:\Users\lamch\Downloads\Elegant\Chat-server\Chat-server\bin\Debug\Chat-server.exe.config
+C:\Users\lamch\Downloads\Elegant\Chat-server\Chat-server\bin\Debug\Chat-server.exe
+C:\Users\lamch\Downloads\Elegant\Chat-server\Chat-server\bin\Debug\Chat-server.pdb
+C:\Users\lamch\Downloads\Elegant\Chat-server\Chat-server\obj\Debug\Chat-server.csproj.AssemblyReference.cache
+C:\Users\lamch\Downloads\Elegant\Chat-server\Chat-server\obj\Debug\Chat_server.Properties.Resources.resources
+C:\Users\lamch\Downloads\Elegant\Chat-server\Chat-server\obj\Debug\Chat-server.csproj.GenerateResource.cache
+C:\Users\lamch\Downloads\Elegant\Chat-server\Chat-server\obj\Debug\Chat-server.csproj.CoreCompileInputs.cache
+C:\Users\lamch\Downloads\Elegant\Chat-server\Chat-server\obj\Debug\Chat-server.exe
+C:\Users\lamch\Downloads\Elegant\Chat-server\Chat-server\obj\Debug\Chat-server.pdb
+C:\Users\lamch\Downloads\Elegant\Chat-server\Chat-server\obj\Debug\Chat_server.Form1.resources

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lamch\\Downloads\\Elegant\\Chat-server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D79C67C-6F27-4D3C-8E0A-28F1A34C5B02}|Chat-server\\Chat-server.csproj|c:\\users\\lamch\\downloads\\elegant\\chat-server\\chat-server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D79C67C-6F27-4D3C-8E0A-28F1A34C5B02}|Chat-server\\Chat-server.csproj|solutionrelative:chat-server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D79C67C-6F27-4D3C-8E0A-28F1A34C5B02}|Chat-server\\Chat-server.csproj|C:\\Users\\lamch\\Downloads\\Elegant\\Chat-server\\chat-server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D79C67C-6F27-4D3C-8E0A-28F1A34C5B02}|Chat-server\\Chat-server.csproj|solutionrelative:chat-server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D79C67C-6F27-4D3C-8E0A-28F1A34C5B02}|Chat-server\\Chat-server.csproj|C:\\Users\\lamch\\Downloads\\Elegant\\Chat-server\\chat-server\\threadparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D79C67C-6F27-4D3C-8E0A-28F1A34C5B02}|Chat-server\\Chat-server.csproj|solutionrelative:chat-server\\threadparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadParam.cs",
+              "DocumentMoniker": "C:\\Users\\lamch\\Downloads\\Elegant\\Chat-server\\Chat-server\\ThreadParam.cs",
+              "RelativeDocumentMoniker": "Chat-server\\ThreadParam.cs",
+              "ToolTip": "C:\\Users\\lamch\\Downloads\\Elegant\\Chat-server\\Chat-server\\ThreadParam.cs",
+              "RelativeToolTip": "Chat-server\\ThreadParam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:08:35.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lamch\\Downloads\\Elegant\\Chat-server\\Chat-server\\Form1.cs",
+              "RelativeDocumentMoniker": "Chat-server\\Form1.cs",
+              "ToolTip": "C:\\Users\\lamch\\Downloads\\Elegant\\Chat-server\\Chat-server\\Form1.cs",
+              "RelativeToolTip": "Chat-server\\Form1.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:37:30.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lamch\\Downloads\\Elegant\\Chat-server\\Chat-server\\Form1.cs",
+              "RelativeDocumentMoniker": "Chat-server\\Form1.cs",
+              "ToolTip": "C:\\Users\\lamch\\Downloads\\Elegant\\Chat-server\\Chat-server\\Form1.cs [Design]",
+              "RelativeToolTip": "Chat-server\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:37:31.058Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
